@@ -29,3 +29,10 @@ Sarah mentioned, you can branch out in order to start an experimental feature de
 compromise the working version of the program or branch out to make an italian version of the same
 program, either way, both branches are like two different repositories, different to the master, which 
 changes will not be reflected on the master branch. 
+
+How do the diagrams help you visualize the branch structure?
+
+Well, anything visual is often much better than plain text. These diagrams let you identify where
+branches were made, so you easily know if the master branch has change or not, or if there are 
+more branches in the repo. It also allows to view how much work has been done in each branch 
+that's something useful if you want to track the progress of the project. 
