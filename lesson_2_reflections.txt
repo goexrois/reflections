@@ -4,3 +4,12 @@ Initially the repository is empty because git is considerated enough to let you 
 of your new repository do yo want to include into the versioning system. So you need to add 
 files to the repository in order to git start tracking changes on the files you're interested in 
 doing so. 
+
+How is the staging area different from the working directory and the repository? What value do you
+think it offers?
+
+In the staging area you can add or remove files to the project without repository even notice it, 
+its like an area to get things prepared and choose what do you want  to commit the work done to the 
+repository, its also different from the working directory in the way that the working directory only
+view files as they are and its only a container for them, on the other hand the staging area its a 
+way to preprocess the changes made before commiting.
