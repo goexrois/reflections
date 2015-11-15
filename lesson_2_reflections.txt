@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initially the repository is empty because git is considerated enough to let you decide which files 
+of your new repository do yo want to include into the versioning system. So you need to add 
+files to the repository in order to git start tracking changes on the files you're interested in 
+doing so. 
