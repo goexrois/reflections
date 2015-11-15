@@ -43,3 +43,10 @@ way we do?
 The result its a new commit in one of the branches with files already merged. We represented that 
 way because the new commit has more than one parent, these parents are the commits involved in 
 the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic mergin its faster and if you merge independent work on one file it shouldn't be necessary 
+merging manually, its that you can merge orthogonal work without effort because there are no 
+conflicts to inspect. The cons to automatic merging is that it wont always work so you will have to 
+merge manually once in a while. 
