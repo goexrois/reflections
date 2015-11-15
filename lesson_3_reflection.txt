@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I think that when you work with a team of developers its a good idea to have a platform 
+in which every developer can change the files.
