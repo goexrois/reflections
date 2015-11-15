@@ -13,3 +13,10 @@ its like an area to get things prepared and choose what do you want  to commit t
 repository, its also different from the working directory in the way that the working directory only
 view files as they are and its only a container for them, on the other hand the staging area its a 
 way to preprocess the changes made before commiting.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can choose which files to commit, so those who are involved in the same logical change should be
+committed together. You can iterate this to all the changes you've done. So you may have achieved 
+more than one logical change but you can commit them sequentially so it seems  you worked it that 
+way. 
